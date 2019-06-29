@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32fe9d53-5727-4b1b-9453-0a8d1df522bf" name="Default Changelist" comment="" />
+    <list default="true" id="32fe9d53-5727-4b1b-9453-0a8d1df522bf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/app/spring3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/app/spring3/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/app/spring3/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
-              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+              <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -128,6 +130,9 @@
       <find>maven</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -161,6 +166,7 @@
     <option name="width" value="1318" />
     <option name="height" value="1836" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -241,6 +247,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -281,12 +288,12 @@
       <option name="presentableId" value="Default" />
       <updated>1561614479698</updated>
       <workItem from="1561614483302" duration="12603000" />
-      <workItem from="1561792180056" duration="19000" />
+      <workItem from="1561792180056" duration="310000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12622000" />
+    <option name="totallyTimeSpent" value="12913000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="66" y="-6" width="1309" height="925" extended-state="6" />
@@ -414,7 +421,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/app/spring3/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

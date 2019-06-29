@@ -14,7 +14,7 @@ public class Main
     {
         ApplicationContext context =
                 new AnnotationConfigApplicationContext(PhoneBookApplicationContext.class);
-        System.out.println("테스트입니됴");
+        System.out.println("테스트입니됴!!!");
 
     }
 }
